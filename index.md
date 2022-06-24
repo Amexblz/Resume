@@ -99,14 +99,6 @@
   <br>
   <br>
   <hr noshade size="2">
-  <form action="index.html" method="post">
-    <label>Your Name -</label>
-    <input type="text">
-    <input type="color"><br>
-    <label for="">Do you want to submit?</label>
-    <input type="checkbox">
-    <input type="submit">
-  </form>
 
 
 
