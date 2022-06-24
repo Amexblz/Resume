@@ -1,0 +1,84 @@
+p{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+}
+.circle-pic{
+  position: center;
+  width: 150px; 
+  height: 150px; 
+  overflow: hidden; 
+  border-radius: 50%; 
+  background-size: cover;
+} 
+#Ex, #Sub{
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#Ex td, #Ex th {
+  border: 1px solid rgb(222, 218, 218);
+  padding: 8px;
+}
+
+#Ex tr:nth-child(even){background-color: #f2f2f2;}
+
+#Ex tr:hover {background-color: #ddd;}
+
+#Ex th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+
+}
+
+#Sub td, #Sub th {
+  border: 1px solid rgb(222, 218, 218);
+  padding: 8px;
+}
+
+#Sub tr:nth-child(even){background-color: #f2f2f2;}
+
+#Sub tr:hover {background-color: #ddd;}
+
+#Sub th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+
+}
+#star, #Sub{
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#star td, #star th {
+  border: 1px solid rgb(222, 218, 218);
+  padding: 8px;
+}
+
+#star tr:nth-child(even){background-color: #f2f2f2;}
+
+#star tr:hover {background-color: #ddd;}
+
+
+
+
+#bd2{
+  background-color: antiquewhite;
+}
+
+  
+  
+
+  
+  
